@@ -11,6 +11,7 @@
 		84A305E82A416D6A00E89AAE /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84A305E72A416D6A00E89AAE /* ContentView.swift */; };
 		84A305EA2A416D6B00E89AAE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 84A305E92A416D6B00E89AAE /* Assets.xcassets */; };
 		84A305ED2A416D6B00E89AAE /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 84A305EC2A416D6B00E89AAE /* Preview Assets.xcassets */; };
+		84A305F42A4170EA00E89AAE /* MyModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84A305F32A4170EA00E89AAE /* MyModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		84A305E72A416D6A00E89AAE /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		84A305E92A416D6B00E89AAE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		84A305EC2A416D6B00E89AAE /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		84A305F32A4170EA00E89AAE /* MyModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,6 +53,7 @@
 		84A305E42A416D6A00E89AAE /* Learning-GitHub */ = {
 			isa = PBXGroup;
 			children = (
+				84A305F32A4170EA00E89AAE /* MyModel.swift */,
 				84A305E52A416D6A00E89AAE /* Learning_GitHubApp.swift */,
 				84A305E72A416D6A00E89AAE /* ContentView.swift */,
 				84A305E92A416D6B00E89AAE /* Assets.xcassets */,
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				84A305E82A416D6A00E89AAE /* ContentView.swift in Sources */,
+				84A305F42A4170EA00E89AAE /* MyModel.swift in Sources */,
 				84A305E62A416D6A00E89AAE /* Learning_GitHubApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
